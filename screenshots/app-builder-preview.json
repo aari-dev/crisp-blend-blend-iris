@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Super Indie ($SI)",
+      "hasCanvas": false,
+      "bodyTextLen": 2237,
+      "bodyTextHash": "a9d659431f9aa337bdad5943159301e712c7a7bc8ad650e52cb5c70d8debbae5",
+      "bodyTextPrefix": "Super Indie, $SI. The cape stays on. For Indie. Fair launch on S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Super Indie ($SI)",
+      "hasCanvas": false,
+      "bodyTextLen": 2237,
+      "bodyTextHash": "a9d659431f9aa337bdad5943159301e712c7a7bc8ad650e52cb5c70d8debbae5",
+      "bodyTextPrefix": "Super Indie, $SI. The cape stays on. For Indie. Fair launch on S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
